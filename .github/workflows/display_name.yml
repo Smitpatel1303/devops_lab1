@@ -1,0 +1,13 @@
+name: Echo Name on Push
+
+on: [push]
+
+jobs:
+  echo-name:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Echo your name
+        run: echo "Smit Patel"
