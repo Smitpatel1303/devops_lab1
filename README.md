@@ -29,3 +29,5 @@ This repository contains a sample NPM project and various GitHub Actions workflo
    - Summarize what was demonstrated and the importance of these workflows in a CI/CD pipeline.
 
 By following these steps and using the README template provided, you can create a comprehensive demonstration for your Jenkins setup and GitHub Actions workflows.
+## video link
+https://youtu.be/Yio5J420mjs
